@@ -1,1 +1,1 @@
-[Web application])(https://product-store-juhg.onrender.com/)
+[Web application](https://product-store-juhg.onrender.com/)
